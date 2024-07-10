@@ -1,4 +1,4 @@
-#Introdução
+# Introdução
 Estarei mostrando a vocês o banco 2.0 que fiz no Bootcamp da DIO, com base no que aprendi em Python. Espero que gostem!
 
 ### 1. Função `menu`
